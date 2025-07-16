@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshuaddf
-- 🌱 I’m currently learning web development, frontend to be precise
+- 🌱 I’m learning web development, frontend to be precise
 - 📌 My stack: Next.js, GSAP and Motion (formerly framer-motion)
-- 👷🏻‍♂️ I liek to dabble with sole backend tools like Prisma ans Neon db
+- 👷🏻‍♂️ I sometimes dabble with some backend tools like Prisma and Neon db
 - 📫 How to reach me discord: joshuaddf
 <!---
 joshuaddf/joshuaddf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

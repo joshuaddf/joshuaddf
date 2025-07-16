@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @joshuaddf
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web development, frontend to be precise
 - 📫 How to reach me discord: joshuaddf
 
 <!---
